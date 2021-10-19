@@ -1,0 +1,753 @@
+{
+    "head": {
+        "status": "200",
+        "data": {}
+    },
+    "body": {
+        "productLocatorOverlayData": {
+            "overlayHeader": "iPhone Availability",
+            "search": {
+                "searchPlaceholder": "District (e.g. Central)",
+                "autosaveValue": "AppleRetailStoreLocator",
+                "maxlength": 35,
+                "searchTxt": "Search",
+                "autocompleteOn": "off",
+                "pattern": ".*",
+                "isAutoCompleteEnabled": false,
+                "invalidFormatError": "Please enter a valid District",
+                "autoCompleteUrl": "/hk/shop/retailStore/autoComplete",
+                "requiredError": "Please enter District"
+            },
+            "familyLevelFragments": {
+                "namedFragments": {
+                    "namedFragmentsJSON": "{\"footer\":\"<ol start=\\\"2\\\">\\n <li>Available space is less and varies due to many factors. A standard configuration uses approximately 12GB to 17GB of space, including iOS 15 with its latest features and Apple apps that can be deleted. Apple apps that can be deleted use about 4.5GB of space, and you can download them back from the App Store. Storage capacity subject to change based on software version, settings, and iPhone model.</li>\\n</ol>\"}",
+                    "footer": "<ol start=\"2\">\n <li>Available space is less and varies due to many factors. A standard configuration uses approximately 12GB to 17GB of space, including iOS 15 with its latest features and Apple apps that can be deleted. Apple apps that can be deleted use about 4.5GB of space, and you can download them back from the App Store. Storage capacity subject to change based on software version, settings, and iPhone model.</li>\n</ol>"
+                }
+            },
+            "overlayLevelFragments": {
+                "namedFragments": {
+                    "namedFragmentsJSON": "{\"coldStartPickupInfo\":\"<div>Search by district to see availability at nearby stores.</div>\"}",
+                    "coldStartPickupInfo": "<div>Search by district to see availability at nearby stores.</div>"
+                }
+            },
+            "hideRecommendations": false,
+            "displayableDimensionVariants": {
+                "items": [
+                    {
+                        "index": 0,
+                        "value": "dimensionColor",
+                        "even": true,
+                        "first": true,
+                        "position": 1,
+                        "last": false
+                    },
+                    {
+                        "index": 1,
+                        "value": "dimensionCapacity",
+                        "even": false,
+                        "first": false,
+                        "position": 2,
+                        "last": false
+                    },
+                    {
+                        "index": 2,
+                        "value": "dimensionScreensize",
+                        "even": true,
+                        "first": false,
+                        "position": 3,
+                        "last": true
+                    }
+                ],
+                "size": 3
+            },
+            "familyLevelTextAssets": {
+                "namedTextAssets": {
+                    "filterButtonText": "Check availability of another iPhone"
+                }
+            },
+            "overlayLevelTextAssets": {
+                "namedTextAssets": {
+                    "recommendationSectionHeader": "Similar models available",
+                    "pickupHeaderNear": "Pick it up at an Apple Store near: ",
+                    "pickupHeader": "Pick it up at an Apple Store",
+                    "deliveryHeader": "Or get it delivered",
+                    "storeSelectionButtonText": "Continue"
+                }
+            },
+            "productLocatorMeta": {
+                "dimensionsVariations": {
+                    "dimensionCapacity": [
+                        {
+                            "key": "256gb",
+                            "value": "256GB<span class=\"superscript\"><span class=\"visuallyhidden\">Footnote</span>2</span>",
+                            "sortOrder": 1620
+                        },
+                        {
+                            "key": "512gb",
+                            "value": "512GB<span class=\"superscript\"><span class=\"visuallyhidden\">Footnote</span>2</span>",
+                            "sortOrder": 1700
+                        },
+                        {
+                            "key": "128gb",
+                            "value": "128GB<span class=\"superscript\"><span class=\"visuallyhidden\">Footnote</span>2</span>",
+                            "sortOrder": 1571
+                        }
+                    ],
+                    "dimensionScreensize": [
+                        {
+                            "key": "5_4inch",
+                            "value": "iPhone 13 mini",
+                            "sortOrder": 405
+                        },
+                        {
+                            "key": "6_1inch",
+                            "value": "iPhone 13",
+                            "sortOrder": 630
+                        }
+                    ],
+                    "dimensionColor": [
+                        {
+                            "key": "product_red",
+                            "value": "(PRODUCT)RED",
+                            "swatchImage": {
+                                "scaleFactor": "RETINA",
+                                "srcSet": {
+                                    "src": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-13-mini-product-red-select-2021_SW_COLOR?wid=64&hei=64&fmt=jpeg&qlt=80&.v=1630017924000",
+                                    "scaleParams1": "wid=32&hei=32&fmt=jpeg&qlt=95&.v=1630017924000"
+                                },
+                                "attrs": "",
+                                "alt": "image.alt.iphone_13_mini_product_red_select_2021_sw_color",
+                                "width": "32",
+                                "height": "32",
+                                "imageName": "iphone-13-mini-product-red-select-2021_SW_COLOR",
+                                "originalImageName": "",
+                                "noImage": false,
+                                "deferSrc": false
+                            },
+                            "sortOrder": 9999
+                        },
+                        {
+                            "key": "midnight",
+                            "value": "Midnight",
+                            "swatchImage": {
+                                "scaleFactor": "RETINA",
+                                "srcSet": {
+                                    "src": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-13-mini-midnight-select-2021_SW_COLOR?wid=64&hei=64&fmt=jpeg&qlt=80&.v=1630017923000",
+                                    "scaleParams1": "wid=32&hei=32&fmt=jpeg&qlt=95&.v=1630017923000"
+                                },
+                                "attrs": "",
+                                "alt": "image.alt.iphone_13_mini_midnight_select_2021_sw_color",
+                                "width": "32",
+                                "height": "32",
+                                "imageName": "iphone-13-mini-midnight-select-2021_SW_COLOR",
+                                "originalImageName": "",
+                                "noImage": false,
+                                "deferSrc": false
+                            },
+                            "sortOrder": 36
+                        },
+                        {
+                            "key": "blue",
+                            "value": "Blue",
+                            "swatchImage": {
+                                "scaleFactor": "RETINA",
+                                "srcSet": {
+                                    "src": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-13-mini-blue-select-2021_SW_COLOR?wid=64&hei=64&fmt=jpeg&qlt=80&.v=1630017923000",
+                                    "scaleParams1": "wid=32&hei=32&fmt=jpeg&qlt=95&.v=1630017923000"
+                                },
+                                "attrs": "",
+                                "alt": "image.alt.iphone_13_mini_blue_select_2021_sw_color",
+                                "width": "32",
+                                "height": "32",
+                                "imageName": "iphone-13-mini-blue-select-2021_SW_COLOR",
+                                "originalImageName": "",
+                                "noImage": false,
+                                "deferSrc": false
+                            },
+                            "sortOrder": 35
+                        },
+                        {
+                            "key": "pink",
+                            "value": "Pink",
+                            "swatchImage": {
+                                "scaleFactor": "RETINA",
+                                "srcSet": {
+                                    "src": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-13-mini-pink-select-2021_SW_COLOR?wid=64&hei=64&fmt=jpeg&qlt=80&.v=1630017923000",
+                                    "scaleParams1": "wid=32&hei=32&fmt=jpeg&qlt=95&.v=1630017923000"
+                                },
+                                "attrs": "",
+                                "alt": "image.alt.iphone_13_mini_pink_select_2021_sw_color",
+                                "width": "32",
+                                "height": "32",
+                                "imageName": "iphone-13-mini-pink-select-2021_SW_COLOR",
+                                "originalImageName": "",
+                                "noImage": false,
+                                "deferSrc": false
+                            },
+                            "sortOrder": 31
+                        },
+                        {
+                            "key": "starlight",
+                            "value": "Starlight",
+                            "swatchImage": {
+                                "scaleFactor": "RETINA",
+                                "srcSet": {
+                                    "src": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-13-mini-starlight-select-2021_SW_COLOR?wid=64&hei=64&fmt=jpeg&qlt=80&.v=1630017922000",
+                                    "scaleParams1": "wid=32&hei=32&fmt=jpeg&qlt=95&.v=1630017922000"
+                                },
+                                "attrs": "",
+                                "alt": "image.alt.iphone_13_mini_starlight_select_2021_sw_color",
+                                "width": "32",
+                                "height": "32",
+                                "imageName": "iphone-13-mini-starlight-select-2021_SW_COLOR",
+                                "originalImageName": "",
+                                "noImage": false,
+                                "deferSrc": false
+                            },
+                            "sortOrder": 38
+                        }
+                    ]
+                },
+                "products": [
+                    {
+                        "productTitle": "iPhone 13 mini 128GB Pink",
+                        "basePartNumber": "MLK23",
+                        "image": "iphone-13-mini-pink-select-2021",
+                        "dimensionCapacity": "128gb",
+                        "dimensionScreensize": "5_4inch",
+                        "price": "5999_00_unlocked",
+                        "partNumber": "MLK23ZA/A",
+                        "productLink": "https://www.apple.com/hk/shop/buy-iphone/iphone-13/5.4-inch-display-128gb-pink",
+                        "dimensionColor": "pink"
+                    },
+                    {
+                        "productTitle": "iPhone 13 mini 128GB (PRODUCT)RED",
+                        "basePartNumber": "MLK33",
+                        "image": "iphone-13-mini-product-red-select-2021",
+                        "dimensionCapacity": "128gb",
+                        "dimensionScreensize": "5_4inch",
+                        "price": "5999_00_unlocked",
+                        "partNumber": "MLK33ZA/A",
+                        "productLink": "https://www.apple.com/hk/shop/buy-iphone/iphone-13/5.4-inch-display-128gb-red",
+                        "dimensionColor": "product_red"
+                    },
+                    {
+                        "productTitle": "iPhone 13 mini 128GB Starlight",
+                        "basePartNumber": "MLK13",
+                        "image": "iphone-13-mini-starlight-select-2021",
+                        "dimensionCapacity": "128gb",
+                        "dimensionScreensize": "5_4inch",
+                        "price": "5999_00_unlocked",
+                        "partNumber": "MLK13ZA/A",
+                        "productLink": "https://www.apple.com/hk/shop/buy-iphone/iphone-13/5.4-inch-display-128gb-starlight",
+                        "dimensionColor": "starlight"
+                    },
+                    {
+                        "productTitle": "iPhone 13 mini 512GB Pink",
+                        "basePartNumber": "MLKD3",
+                        "image": "iphone-13-mini-pink-select-2021",
+                        "dimensionCapacity": "512gb",
+                        "dimensionScreensize": "5_4inch",
+                        "price": "8499_00_unlocked",
+                        "partNumber": "MLKD3ZA/A",
+                        "productLink": "https://www.apple.com/hk/shop/buy-iphone/iphone-13/5.4-inch-display-512gb-pink",
+                        "dimensionColor": "pink"
+                    },
+                    {
+                        "productTitle": "iPhone 13 mini 256GB Starlight",
+                        "basePartNumber": "MLK63",
+                        "image": "iphone-13-mini-starlight-select-2021",
+                        "dimensionCapacity": "256gb",
+                        "dimensionScreensize": "5_4inch",
+                        "price": "6799_00_unlocked",
+                        "partNumber": "MLK63ZA/A",
+                        "productLink": "https://www.apple.com/hk/shop/buy-iphone/iphone-13/5.4-inch-display-256gb-starlight",
+                        "dimensionColor": "starlight"
+                    },
+                    {
+                        "productTitle": "iPhone 13 mini 256GB Pink",
+                        "basePartNumber": "MLK73",
+                        "image": "iphone-13-mini-pink-select-2021",
+                        "dimensionCapacity": "256gb",
+                        "dimensionScreensize": "5_4inch",
+                        "price": "6799_00_unlocked",
+                        "partNumber": "MLK73ZA/A",
+                        "productLink": "https://www.apple.com/hk/shop/buy-iphone/iphone-13/5.4-inch-display-256gb-pink",
+                        "dimensionColor": "pink"
+                    },
+                    {
+                        "productTitle": "iPhone 13 mini 512GB (PRODUCT)RED",
+                        "basePartNumber": "MLKE3",
+                        "image": "iphone-13-mini-product-red-select-2021",
+                        "dimensionCapacity": "512gb",
+                        "dimensionScreensize": "5_4inch",
+                        "price": "8499_00_unlocked",
+                        "partNumber": "MLKE3ZA/A",
+                        "productLink": "https://www.apple.com/hk/shop/buy-iphone/iphone-13/5.4-inch-display-512gb-red",
+                        "dimensionColor": "product_red"
+                    },
+                    {
+                        "productTitle": "iPhone 13 mini 256GB Blue",
+                        "basePartNumber": "MLK93",
+                        "image": "iphone-13-mini-blue-select-2021",
+                        "dimensionCapacity": "256gb",
+                        "dimensionScreensize": "5_4inch",
+                        "price": "6799_00_unlocked",
+                        "partNumber": "MLK93ZA/A",
+                        "productLink": "https://www.apple.com/hk/shop/buy-iphone/iphone-13/5.4-inch-display-256gb-blue",
+                        "dimensionColor": "blue"
+                    },
+                    {
+                        "productTitle": "iPhone 13 mini 256GB (PRODUCT)RED",
+                        "basePartNumber": "MLK83",
+                        "image": "iphone-13-mini-product-red-select-2021",
+                        "dimensionCapacity": "256gb",
+                        "dimensionScreensize": "5_4inch",
+                        "price": "6799_00_unlocked",
+                        "partNumber": "MLK83ZA/A",
+                        "productLink": "https://www.apple.com/hk/shop/buy-iphone/iphone-13/5.4-inch-display-256gb-red",
+                        "dimensionColor": "product_red"
+                    },
+                    {
+                        "productTitle": "iPhone 13 mini 256GB Midnight",
+                        "basePartNumber": "MLK53",
+                        "image": "iphone-13-mini-midnight-select-2021",
+                        "dimensionCapacity": "256gb",
+                        "dimensionScreensize": "5_4inch",
+                        "price": "6799_00_unlocked",
+                        "partNumber": "MLK53ZA/A",
+                        "productLink": "https://www.apple.com/hk/shop/buy-iphone/iphone-13/5.4-inch-display-256gb-midnight",
+                        "dimensionColor": "midnight"
+                    },
+                    {
+                        "productTitle": "iPhone 13 mini 512GB Blue",
+                        "basePartNumber": "MLKF3",
+                        "image": "iphone-13-mini-blue-select-2021",
+                        "dimensionCapacity": "512gb",
+                        "dimensionScreensize": "5_4inch",
+                        "price": "8499_00_unlocked",
+                        "partNumber": "MLKF3ZA/A",
+                        "productLink": "https://www.apple.com/hk/shop/buy-iphone/iphone-13/5.4-inch-display-512gb-blue",
+                        "dimensionColor": "blue"
+                    },
+                    {
+                        "productTitle": "iPhone 13 mini 512GB Starlight",
+                        "basePartNumber": "MLKC3",
+                        "image": "iphone-13-mini-starlight-select-2021",
+                        "dimensionCapacity": "512gb",
+                        "dimensionScreensize": "5_4inch",
+                        "price": "8499_00_unlocked",
+                        "partNumber": "MLKC3ZA/A",
+                        "productLink": "https://www.apple.com/hk/shop/buy-iphone/iphone-13/5.4-inch-display-512gb-starlight",
+                        "dimensionColor": "starlight"
+                    },
+                    {
+                        "productTitle": "iPhone 13 mini 512GB Midnight",
+                        "basePartNumber": "MLKA3",
+                        "image": "iphone-13-mini-midnight-select-2021",
+                        "dimensionCapacity": "512gb",
+                        "dimensionScreensize": "5_4inch",
+                        "price": "8499_00_unlocked",
+                        "partNumber": "MLKA3ZA/A",
+                        "productLink": "https://www.apple.com/hk/shop/buy-iphone/iphone-13/5.4-inch-display-512gb-midnight",
+                        "dimensionColor": "midnight"
+                    },
+                    {
+                        "productTitle": "iPhone 13 mini 128GB Midnight",
+                        "basePartNumber": "MLK03",
+                        "image": "iphone-13-mini-midnight-select-2021",
+                        "dimensionCapacity": "128gb",
+                        "dimensionScreensize": "5_4inch",
+                        "price": "5999_00_unlocked",
+                        "partNumber": "MLK03ZA/A",
+                        "productLink": "https://www.apple.com/hk/shop/buy-iphone/iphone-13/5.4-inch-display-128gb-midnight",
+                        "dimensionColor": "midnight"
+                    },
+                    {
+                        "productTitle": "iPhone 13 mini 128GB Blue",
+                        "basePartNumber": "MLK43",
+                        "image": "iphone-13-mini-blue-select-2021",
+                        "dimensionCapacity": "128gb",
+                        "dimensionScreensize": "5_4inch",
+                        "price": "5999_00_unlocked",
+                        "partNumber": "MLK43ZA/A",
+                        "productLink": "https://www.apple.com/hk/shop/buy-iphone/iphone-13/5.4-inch-display-128gb-blue",
+                        "dimensionColor": "blue"
+                    },
+                    {
+                        "productTitle": "iPhone 13 128GB Pink",
+                        "basePartNumber": "MLDW3",
+                        "image": "iphone-13-pink-select-2021",
+                        "dimensionCapacity": "128gb",
+                        "dimensionScreensize": "6_1inch",
+                        "price": "6799_00_unlocked",
+                        "partNumber": "MLDW3ZA/A",
+                        "productLink": "https://www.apple.com/hk/shop/buy-iphone/iphone-13/6.1-inch-display-128gb-pink",
+                        "dimensionColor": "pink"
+                    },
+                    {
+                        "productTitle": "iPhone 13 512GB Starlight",
+                        "basePartNumber": "MLE73",
+                        "image": "iphone-13-starlight-select-2021",
+                        "dimensionCapacity": "512gb",
+                        "dimensionScreensize": "6_1inch",
+                        "price": "9299_00_unlocked",
+                        "partNumber": "MLE73ZA/A",
+                        "productLink": "https://www.apple.com/hk/shop/buy-iphone/iphone-13/6.1-inch-display-512gb-starlight",
+                        "dimensionColor": "starlight"
+                    },
+                    {
+                        "productTitle": "iPhone 13 128GB (PRODUCT)RED",
+                        "basePartNumber": "MLDX3",
+                        "image": "iphone-13-product-red-select-2021",
+                        "dimensionCapacity": "128gb",
+                        "dimensionScreensize": "6_1inch",
+                        "price": "6799_00_unlocked",
+                        "partNumber": "MLDX3ZA/A",
+                        "productLink": "https://www.apple.com/hk/shop/buy-iphone/iphone-13/6.1-inch-display-128gb-red",
+                        "dimensionColor": "product_red"
+                    },
+                    {
+                        "productTitle": "iPhone 13 512GB Midnight",
+                        "basePartNumber": "MLE63",
+                        "image": "iphone-13-midnight-select-2021",
+                        "dimensionCapacity": "512gb",
+                        "dimensionScreensize": "6_1inch",
+                        "price": "9299_00_unlocked",
+                        "partNumber": "MLE63ZA/A",
+                        "productLink": "https://www.apple.com/hk/shop/buy-iphone/iphone-13/6.1-inch-display-512gb-midnight",
+                        "dimensionColor": "midnight"
+                    },
+                    {
+                        "productTitle": "iPhone 13 256GB (PRODUCT)RED",
+                        "basePartNumber": "MLE33",
+                        "image": "iphone-13-product-red-select-2021",
+                        "dimensionCapacity": "256gb",
+                        "dimensionScreensize": "6_1inch",
+                        "price": "7599_00_unlocked",
+                        "partNumber": "MLE33ZA/A",
+                        "productLink": "https://www.apple.com/hk/shop/buy-iphone/iphone-13/6.1-inch-display-256gb-red",
+                        "dimensionColor": "product_red"
+                    },
+                    {
+                        "productTitle": "iPhone 13 512GB (PRODUCT)RED",
+                        "basePartNumber": "MLEA3",
+                        "image": "iphone-13-product-red-select-2021",
+                        "dimensionCapacity": "512gb",
+                        "dimensionScreensize": "6_1inch",
+                        "price": "9299_00_unlocked",
+                        "partNumber": "MLEA3ZA/A",
+                        "productLink": "https://www.apple.com/hk/shop/buy-iphone/iphone-13/6.1-inch-display-512gb-red",
+                        "dimensionColor": "product_red"
+                    },
+                    {
+                        "productTitle": "iPhone 13 256GB Starlight",
+                        "basePartNumber": "MLE13",
+                        "image": "iphone-13-starlight-select-2021",
+                        "dimensionCapacity": "256gb",
+                        "dimensionScreensize": "6_1inch",
+                        "price": "7599_00_unlocked",
+                        "partNumber": "MLE13ZA/A",
+                        "productLink": "https://www.apple.com/hk/shop/buy-iphone/iphone-13/6.1-inch-display-256gb-starlight",
+                        "dimensionColor": "starlight"
+                    },
+                    {
+                        "productTitle": "iPhone 13 512GB Pink",
+                        "basePartNumber": "MLE93",
+                        "image": "iphone-13-pink-select-2021",
+                        "dimensionCapacity": "512gb",
+                        "dimensionScreensize": "6_1inch",
+                        "price": "9299_00_unlocked",
+                        "partNumber": "MLE93ZA/A",
+                        "productLink": "https://www.apple.com/hk/shop/buy-iphone/iphone-13/6.1-inch-display-512gb-pink",
+                        "dimensionColor": "pink"
+                    },
+                    {
+                        "productTitle": "iPhone 13 128GB Midnight",
+                        "basePartNumber": "MLDU3",
+                        "image": "iphone-13-midnight-select-2021",
+                        "dimensionCapacity": "128gb",
+                        "dimensionScreensize": "6_1inch",
+                        "price": "6799_00_unlocked",
+                        "partNumber": "MLDU3ZA/A",
+                        "productLink": "https://www.apple.com/hk/shop/buy-iphone/iphone-13/6.1-inch-display-128gb-midnight",
+                        "dimensionColor": "midnight"
+                    },
+                    {
+                        "productTitle": "iPhone 13 128GB Starlight",
+                        "basePartNumber": "MLDV3",
+                        "image": "iphone-13-starlight-select-2021",
+                        "dimensionCapacity": "128gb",
+                        "dimensionScreensize": "6_1inch",
+                        "price": "6799_00_unlocked",
+                        "partNumber": "MLDV3ZA/A",
+                        "productLink": "https://www.apple.com/hk/shop/buy-iphone/iphone-13/6.1-inch-display-128gb-starlight",
+                        "dimensionColor": "starlight"
+                    },
+                    {
+                        "productTitle": "iPhone 13 256GB Midnight",
+                        "basePartNumber": "MLE03",
+                        "image": "iphone-13-midnight-select-2021",
+                        "dimensionCapacity": "256gb",
+                        "dimensionScreensize": "6_1inch",
+                        "price": "7599_00_unlocked",
+                        "partNumber": "MLE03ZA/A",
+                        "productLink": "https://www.apple.com/hk/shop/buy-iphone/iphone-13/6.1-inch-display-256gb-midnight",
+                        "dimensionColor": "midnight"
+                    },
+                    {
+                        "productTitle": "iPhone 13 128GB Blue",
+                        "basePartNumber": "MLDY3",
+                        "image": "iphone-13-blue-select-2021",
+                        "dimensionCapacity": "128gb",
+                        "dimensionScreensize": "6_1inch",
+                        "price": "6799_00_unlocked",
+                        "partNumber": "MLDY3ZA/A",
+                        "productLink": "https://www.apple.com/hk/shop/buy-iphone/iphone-13/6.1-inch-display-128gb-blue",
+                        "dimensionColor": "blue"
+                    },
+                    {
+                        "productTitle": "iPhone 13 256GB Blue",
+                        "basePartNumber": "MLE43",
+                        "image": "iphone-13-blue-select-2021",
+                        "dimensionCapacity": "256gb",
+                        "dimensionScreensize": "6_1inch",
+                        "price": "7599_00_unlocked",
+                        "partNumber": "MLE43ZA/A",
+                        "productLink": "https://www.apple.com/hk/shop/buy-iphone/iphone-13/6.1-inch-display-256gb-blue",
+                        "dimensionColor": "blue"
+                    },
+                    {
+                        "productTitle": "iPhone 13 512GB Blue",
+                        "basePartNumber": "MLEC3",
+                        "image": "iphone-13-blue-select-2021",
+                        "dimensionCapacity": "512gb",
+                        "dimensionScreensize": "6_1inch",
+                        "price": "9299_00_unlocked",
+                        "partNumber": "MLEC3ZA/A",
+                        "productLink": "https://www.apple.com/hk/shop/buy-iphone/iphone-13/6.1-inch-display-512gb-blue",
+                        "dimensionColor": "blue"
+                    },
+                    {
+                        "productTitle": "iPhone 13 256GB Pink",
+                        "basePartNumber": "MLE23",
+                        "image": "iphone-13-pink-select-2021",
+                        "dimensionCapacity": "256gb",
+                        "dimensionScreensize": "6_1inch",
+                        "price": "7599_00_unlocked",
+                        "partNumber": "MLE23ZA/A",
+                        "productLink": "https://www.apple.com/hk/shop/buy-iphone/iphone-13/6.1-inch-display-256gb-pink",
+                        "dimensionColor": "pink"
+                    }
+                ],
+                "prices": {
+                    "8499_00_unlocked": {
+                        "fullPrice": "HK$8,499"
+                    },
+                    "9299_00_unlocked": {
+                        "fullPrice": "HK$9,299"
+                    },
+                    "5999_00_unlocked": {
+                        "fullPrice": "HK$5,999"
+                    },
+                    "7599_00_unlocked": {
+                        "fullPrice": "HK$7,599"
+                    },
+                    "6799_00_unlocked": {
+                        "fullPrice": "HK$6,799"
+                    }
+                },
+                "displayValues": {
+                    "items": [
+                        {
+                            "index": 0,
+                            "value": {
+                                "dimensionLabel": "Model",
+                                "dimensionValue": "dimensionScreensize"
+                            },
+                            "even": true,
+                            "first": true,
+                            "position": 1,
+                            "last": false
+                        },
+                        {
+                            "index": 1,
+                            "value": {
+                                "dimensionLabel": "Finish",
+                                "dimensionValue": "dimensionColor"
+                            },
+                            "even": false,
+                            "first": false,
+                            "position": 2,
+                            "last": false
+                        },
+                        {
+                            "index": 2,
+                            "value": {
+                                "dimensionLabel": "Capacity",
+                                "dimensionValue": "dimensionCapacity"
+                            },
+                            "even": true,
+                            "first": false,
+                            "position": 3,
+                            "last": true
+                        }
+                    ],
+                    "size": 3
+                },
+                "imageDictionary": {
+                    "iphone-13-mini-blue-select-2021": {
+                        "scaleFactor": "RETINA",
+                        "srcSet": {
+                            "src": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-13-mini-blue-select-2021?wid=136&hei=150&fmt=jpeg&qlt=80&.v=1629842711000",
+                            "scaleParams1": "wid=68&hei=75&fmt=jpeg&qlt=95&.v=1629842711000"
+                        },
+                        "attrs": "",
+                        "alt": "image.alt.iphone_13_mini_blue_select_2021",
+                        "width": "68",
+                        "height": "75",
+                        "imageName": "iphone-13-mini-blue-select-2021",
+                        "originalImageName": "",
+                        "noImage": false,
+                        "deferSrc": false
+                    },
+                    "iphone-13-mini-midnight-select-2021": {
+                        "scaleFactor": "RETINA",
+                        "srcSet": {
+                            "src": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-13-mini-midnight-select-2021?wid=136&hei=150&fmt=jpeg&qlt=80&.v=1629907844000",
+                            "scaleParams1": "wid=68&hei=75&fmt=jpeg&qlt=95&.v=1629907844000"
+                        },
+                        "attrs": "",
+                        "alt": "image.alt.iphone_13_mini_midnight_select_2021",
+                        "width": "68",
+                        "height": "75",
+                        "imageName": "iphone-13-mini-midnight-select-2021",
+                        "originalImageName": "",
+                        "noImage": false,
+                        "deferSrc": false
+                    },
+                    "iphone-13-mini-product-red-select-2021": {
+                        "scaleFactor": "RETINA",
+                        "srcSet": {
+                            "src": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-13-mini-product-red-select-2021?wid=136&hei=150&fmt=jpeg&qlt=80&.v=1629907845000",
+                            "scaleParams1": "wid=68&hei=75&fmt=jpeg&qlt=95&.v=1629907845000"
+                        },
+                        "attrs": "",
+                        "alt": "image.alt.iphone_13_mini_product_red_select_2021",
+                        "width": "68",
+                        "height": "75",
+                        "imageName": "iphone-13-mini-product-red-select-2021",
+                        "originalImageName": "",
+                        "noImage": false,
+                        "deferSrc": false
+                    },
+                    "iphone-13-blue-select-2021": {
+                        "scaleFactor": "RETINA",
+                        "srcSet": {
+                            "src": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-13-blue-select-2021?wid=136&hei=150&fmt=jpeg&qlt=80&.v=1629842712000",
+                            "scaleParams1": "wid=68&hei=75&fmt=jpeg&qlt=95&.v=1629842712000"
+                        },
+                        "attrs": "",
+                        "alt": "image.alt.iphone_13_blue_select_2021",
+                        "width": "68",
+                        "height": "75",
+                        "imageName": "iphone-13-blue-select-2021",
+                        "originalImageName": "",
+                        "noImage": false,
+                        "deferSrc": false
+                    },
+                    "iphone-13-product-red-select-2021": {
+                        "scaleFactor": "RETINA",
+                        "srcSet": {
+                            "src": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-13-product-red-select-2021?wid=136&hei=150&fmt=jpeg&qlt=80&.v=1629907846000",
+                            "scaleParams1": "wid=68&hei=75&fmt=jpeg&qlt=95&.v=1629907846000"
+                        },
+                        "attrs": "",
+                        "alt": "image.alt.iphone_13_product_red_select_2021",
+                        "width": "68",
+                        "height": "75",
+                        "imageName": "iphone-13-product-red-select-2021",
+                        "originalImageName": "",
+                        "noImage": false,
+                        "deferSrc": false
+                    },
+                    "iphone-13-midnight-select-2021": {
+                        "scaleFactor": "RETINA",
+                        "srcSet": {
+                            "src": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-13-midnight-select-2021?wid=136&hei=150&fmt=jpeg&qlt=80&.v=1629907844000",
+                            "scaleParams1": "wid=68&hei=75&fmt=jpeg&qlt=95&.v=1629907844000"
+                        },
+                        "attrs": "",
+                        "alt": "image.alt.iphone_13_midnight_select_2021",
+                        "width": "68",
+                        "height": "75",
+                        "imageName": "iphone-13-midnight-select-2021",
+                        "originalImageName": "",
+                        "noImage": false,
+                        "deferSrc": false
+                    },
+                    "iphone-13-mini-starlight-select-2021": {
+                        "scaleFactor": "RETINA",
+                        "srcSet": {
+                            "src": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-13-mini-starlight-select-2021?wid=136&hei=150&fmt=jpeg&qlt=80&.v=1629907844000",
+                            "scaleParams1": "wid=68&hei=75&fmt=jpeg&qlt=95&.v=1629907844000"
+                        },
+                        "attrs": "",
+                        "alt": "image.alt.iphone_13_mini_starlight_select_2021",
+                        "width": "68",
+                        "height": "75",
+                        "imageName": "iphone-13-mini-starlight-select-2021",
+                        "originalImageName": "",
+                        "noImage": false,
+                        "deferSrc": false
+                    },
+                    "iphone-13-starlight-select-2021": {
+                        "scaleFactor": "RETINA",
+                        "srcSet": {
+                            "src": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-13-starlight-select-2021?wid=136&hei=150&fmt=jpeg&qlt=80&.v=1629907845000",
+                            "scaleParams1": "wid=68&hei=75&fmt=jpeg&qlt=95&.v=1629907845000"
+                        },
+                        "attrs": "",
+                        "alt": "image.alt.iphone_13_starlight_select_2021",
+                        "width": "68",
+                        "height": "75",
+                        "imageName": "iphone-13-starlight-select-2021",
+                        "originalImageName": "",
+                        "noImage": false,
+                        "deferSrc": false
+                    },
+                    "iphone-13-mini-pink-select-2021": {
+                        "scaleFactor": "RETINA",
+                        "srcSet": {
+                            "src": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-13-mini-pink-select-2021?wid=136&hei=150&fmt=jpeg&qlt=80&.v=1629842710000",
+                            "scaleParams1": "wid=68&hei=75&fmt=jpeg&qlt=95&.v=1629842710000"
+                        },
+                        "attrs": "",
+                        "alt": "image.alt.iphone_13_mini_pink_select_2021",
+                        "width": "68",
+                        "height": "75",
+                        "imageName": "iphone-13-mini-pink-select-2021",
+                        "originalImageName": "",
+                        "noImage": false,
+                        "deferSrc": false
+                    },
+                    "iphone-13-pink-select-2021": {
+                        "scaleFactor": "RETINA",
+                        "srcSet": {
+                            "src": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-13-pink-select-2021?wid=136&hei=150&fmt=jpeg&qlt=80&.v=1629842709000",
+                            "scaleParams1": "wid=68&hei=75&fmt=jpeg&qlt=95&.v=1629842709000"
+                        },
+                        "attrs": "",
+                        "alt": "image.alt.iphone_13_pink_select_2021",
+                        "width": "68",
+                        "height": "75",
+                        "imageName": "iphone-13-pink-select-2021",
+                        "originalImageName": "",
+                        "noImage": false,
+                        "deferSrc": false
+                    }
+                }
+            }
+        }
+    }
+}
