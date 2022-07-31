@@ -14,11 +14,11 @@
     "http-cookie-agent": "^1.0.1",
     "jquery": "^3.6.0",
     "moment": "^2.29.1",
-    "node-fetch": "^3.0.0",
+    "node-fetch": "^3.2.10",
     "node-schedule": "^2.0.0",
     "telegraf": "^4.4.2",
     "tough-cookie": "^4.0.0",
-    "webdriverio": "^7.13.2"
+    "webdriverio": "^7.16.12"
   },
   "type": "module"
 }
